@@ -1,7 +1,7 @@
 ---
 slug: test
 title: test
-authors: [slorber, yangshun]
+authors: [Erqjt]
 tags: [test1, test2, test3]
 ---
 
